@@ -2,7 +2,7 @@
 int main()
 {
 
-    std::cout<<"qt test for github!";
+
     std::cout<<"qt test for github again!";
     int a=100;
     std::cout<<"a: "<<a;
